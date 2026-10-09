@@ -1,15 +1,15 @@
 # Deniz Izci
 
-### Full-stack developer building thoughtful, testable products.
+### Technical business analyst building software, automation, and internal tools.
 
-I build mobile, web, AI, and workflow software that turns complex work into clear product experiences. I am based in Lisbon, Portugal, and open to remote opportunities and Lisbon-based roles that can sponsor work authorization.
+I translate operational problems into clear requirements, useful systems, reporting, and automation. Professionally, I work as a business analyst at Port City Football Club. Independently, I have designed and built full-stack and mobile software projects since 2022. I am a U.S. citizen based in Lisbon and open to remote roles and relocating to the United States for the right opportunity.
 
 ## Current focus
 
-- Building complete products across interface design, backend systems, data, integrations, and deployment
+- Translating operational needs into requirements, dashboards, workflows, and internal tools
+- Independently building full-stack and mobile projects across interfaces, backends, data, integrations, testing, and deployment
 - Designing AI-assisted and operational workflows with explicit safeguards and human review
-- Writing focused tests around the domain logic and boundaries that matter most
-- Building internal KPI dashboards and workflow automation at Port City Football Club since December 2022
+- Writing focused tests around domain logic and system boundaries
 
 ## Selected proof
 
