@@ -2,35 +2,31 @@
 
 ### Technical business analyst building software, automation, and internal tools.
 
-I translate operational problems into clear requirements, useful systems, reporting, and automation. Professionally, I work as a business analyst at Port City Football Club. Independently, I have designed and built full-stack and mobile software projects since 2022. I am a U.S. citizen based in Lisbon and open to remote roles and relocating to the United States for the right opportunity.
+I translate operational problems into clear requirements, useful systems, reporting, and automation. Professionally, I work as a business analyst at Port City Football Club. Independently, I have designed and built full-stack and mobile software projects since 2022.
 
-## Current focus
+I am narrowing my public portfolio to three active independent builds. They are evidence of hands-on software delivery—not formal software-engineering employment or finished commercial products.
 
-- Translating operational needs into requirements, dashboards, workflows, and internal tools
-- Independently building full-stack and mobile projects across interfaces, backends, data, integrations, testing, and deployment
-- Designing AI-assisted and operational workflows with explicit safeguards and human review
-- Writing focused tests around domain logic and system boundaries
+## Current build focus
 
-## Selected proof
+- **[Immigration Helper / CasePilot AI](https://github.com/kaiscout/immigration-helper)** — active multilingual React Native build with source-grounded USCIS search, guided workflows, local file storage, and 108 automated tests
+- **SPY Signal Desk** — private active research build for reviewing SPY options setups with explicit risk gates, provenance capture, and replayable decision records; paper and manual use only
+- **[Storefront HQ](https://storefronthq.co.uk)** — active review-controlled Shopify QA workflow for intake, evidence capture, payment reconciliation, delivery, and regression monitoring
 
-- **[CasePilot AI / Immigration Helper](https://github.com/kaiscout/immigration-helper)** — multilingual React Native product that indexes 1,951 official USCIS pages into 14,000+ searchable passages, supports 30 language experiences, and includes 108 automated tests
-- **[TuneFacet](https://tunefacet.deniropro.chatgpt.site)** — React and TypeScript playlist workspace with D1-backed drafts, server-side Spotify OAuth, encrypted token handling, and a complete sample mode
-- **[Hexaweft](https://hexaweft.deniropro.chatgpt.site)** — original simultaneous-turn strategy game with a pure TypeScript rules engine, deterministic bot, accessible SVG board, and reproducible replays
-- **[OnCueProof](https://oncueproof.deniropro.chatgpt.site)** — role-scoped evidence-readiness workspace built with React, TypeScript, D1, and private R2 storage
+My priority is to complete, validate, and document these three builds before expanding the portfolio.
 
 ## Core stack
 
 **Product:** React Native · Expo · React · TypeScript · JavaScript  
-**Backend and data:** Node.js · Cloudflare Workers · D1 · R2 · Drizzle ORM  
-**AI and integrations:** OpenAI API · OAuth 2.0 · Spotify Web API · Stripe · Webhooks  
+**Backend and data:** Node.js · Cloudflare Workers · D1 · Python  
+**AI and integrations:** OpenAI API · OAuth 2.0 · Stripe · Webhooks  
 **Quality and delivery:** Vitest · Git · GitHub · Render · EAS · TestFlight
 
 ## Explore my work
 
 - **Portfolio:** [denizci.dev](https://denizci.dev)
 - **Résumé:** [View PDF](https://denizci.dev/Deniz-Izci-Resume.pdf)
-- **Featured repository:** [CasePilot AI / Immigration Helper](https://github.com/kaiscout/immigration-helper)
+- **Featured repository:** [Immigration Helper / CasePilot AI](https://github.com/kaiscout/immigration-helper)
 
 ## Contact
 
-[denizeizci@outlook.com](mailto:denizeizci@outlook.com) · Lisbon, Portugal · Remote-friendly
+[denizeizci@outlook.com](mailto:denizeizci@outlook.com) · Lisbon, Portugal · U.S. citizen · Open to U.S. relocation and remote opportunities
